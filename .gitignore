@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# files that don't belong in this repo
+AGENTS.md
+CLAUDE.md
+profile-README.md
+github-snake-workflow.yml
