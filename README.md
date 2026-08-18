@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# 👋 Hola, soy David Gómez
 
-First, run the development server:
+### Software Engineer & Full-Stack Developer
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Construyo aplicaciones web full-stack con **React, Next.js, Spring Boot y Laravel**, Estudiante de Ingeniería de Sistemas y Auxiliar de Programación en la **Universidad de Antioquia**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📍 Medellín, Colombia
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+</div>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🧑‍💻 Sobre mí
 
-To learn more about Next.js, take a look at the following resources:
+- 💻 Desarrollo aplicaciones web full-stack: **Next.js, React, Spring Boot y Laravel**.
+- 🤖 Automatizo procesos con **Python** (web scraping, RPA).
+- 🎓 Estudiante de **Ingeniería de Sistemas** y **Auxiliar de Programación** en la Universidad de Antioquia.
+- 🧠 Me apasionan el **Data Science**, el **Machine Learning** y la calidad de software (QA).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Stack tecnológico
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Categoría | Tecnologías |
+|---|---|
+| **Lenguajes** | Java, PHP, Python, JavaScript, SQL |
+| **Frameworks** | Laravel, Spring Boot, Next.js, React, Tailwind CSS, Hibernate |
+| **Datos & ML** | Pandas, NumPy, scikit-learn, Data Science, Machine Learning |
+| **Herramientas & DevOps** | Git, Docker, MySQL, PostgreSQL, Supabase, Selenium |
+| **QA** | Pruebas unitarias, Pruebas de integración, JUnit, Postman, Pruebas manuales |
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📫 Contacto
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 📧 Email: [David.gomez.agudelo9@gmail.com](mailto:David.gomez.agudelo9@gmail.com), [David.gomez.ingeniero@gmail.com](mailto:David.gomez.ingeniero@gmail.com)
+- 💬 WhatsApp: [+57 321 645 5813](https://wa.me/573216455813)
+- 🔗 LinkedIn: [linkedin.com/in/david-gomez](https://linkedin.com)
+- 🐙 GitHub: [@David-Gomez49](https://github.com/David-Gomez49)
