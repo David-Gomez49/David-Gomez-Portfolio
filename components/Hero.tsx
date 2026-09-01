@@ -35,8 +35,8 @@ type Tech = {
 const TECH: Tech[] = [
   { name: "React", tag: "UI Library", glyph: "Re", accent: "#087ea4", offset: "lg:mt-0" },
   { name: "Next.js", tag: "Framework", glyph: "Nx", accent: "#111827", offset: "lg:mt-12" },
-  { name: "NestJS", tag: "Framework", glyph: "Ns", accent: "#e0234e", offset: "lg:mt-6" },
   { name: "Spring Boot", tag: "Framework", glyph: "Sb", accent: "#6db33f", offset: "lg:mt-16" },
+  { name: "QA", tag: "Testing", glyph: "Qa", accent: "#10b981", offset: "lg:mt-6" },
   { name: "Docker", tag: "Containers", glyph: "Dk", accent: "#2496ed", offset: "lg:mt-8" },
   { name: "PostgreSQL", tag: "Database", glyph: "Pg", accent: "#336791", offset: "lg:mt-14" },
 ];
@@ -149,7 +149,7 @@ export default function Hero() {
               {t.hero.contactMe}
             </a>
             <a
-              href={lang === "es" ? "/DavidGomez8-2026.pdf" : "/CV_David_Gomez_EN.pdf"}
+              href={lang === "es" ? "/DavidGomez8-26.pdf" : "/CV_David_Gomez_EN.pdf"}
               download
               className="inline-flex items-center gap-2 rounded-xl border border-emerald-200 bg-emerald-50 px-6 py-3 text-sm font-semibold text-emerald-700 transition-all duration-300 hover:-translate-y-0.5 hover:border-emerald-500 hover:bg-emerald-100 hover:shadow-md"
             >
