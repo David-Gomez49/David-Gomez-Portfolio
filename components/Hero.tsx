@@ -35,8 +35,8 @@ type Tech = {
 const TECH: Tech[] = [
   { name: "React", tag: "UI Library", glyph: "Re", accent: "#087ea4", offset: "lg:mt-0" },
   { name: "Next.js", tag: "Framework", glyph: "Nx", accent: "#111827", offset: "lg:mt-12" },
-  { name: "Spring Boot", tag: "Framework", glyph: "Sb", accent: "#6db33f", offset: "lg:mt-16" },
   { name: "QA", tag: "Testing", glyph: "Qa", accent: "#10b981", offset: "lg:mt-6" },
+  { name: "Spring Boot", tag: "Framework", glyph: "Sb", accent: "#6db33f", offset: "lg:mt-16" },
   { name: "Docker", tag: "Containers", glyph: "Dk", accent: "#2496ed", offset: "lg:mt-8" },
   { name: "PostgreSQL", tag: "Database", glyph: "Pg", accent: "#336791", offset: "lg:mt-14" },
 ];
